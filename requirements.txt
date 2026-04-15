@@ -1,0 +1,10 @@
+requirements to run code:
+os, shutil, google.genai, pathlib, FastMCP, mcp
+uv, pip, python3.
+
+run "source .venv/bin/activate"
+
+
+---
+requirements to read code:
+coffe, sleep, and patience
